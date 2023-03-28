@@ -1,0 +1,329 @@
+--] Пагарджаны
+local folderfind = true
+local positive = true
+local negative = false
+local power = tonumber(1)
+local mix = tonumber(-1)
+local check = positive and negative
+local identifier1 = false
+local identifier2 = false
+local identifiernumeral = identifier1 and identifier2
+local nilinteg = 0
+local nilintegtr = false
+local reread = false
+
+                                                        -- MODULE COMMANDS:
+                                                        local enabled = true -- ;-;
+--------------------------
+if folderfind == true then
+local moduleall = false
+local moduleline = true
+local accept = moduleall and moduleline
+local decline = moduleall and false
+local next = false
+local modulefind = moduleall and moduleline - next + moduleall
+
+                                                        -- DECRYPTION/SECURITY:
+
+local alpha = 1
+local charlie = alpha + alpha - alpha + alpha
+local beta = alpha - charlie
+local foxtrot = beta - charlie
+local zeta = foxtrot - beta
+local net = zeta - charlie
+local zeta3 = foxtrot + beta
+local netzza = zeta - net
+local morthef = beta - charlie
+local net3 = zeta + charlie
+end
+--------------------------
+if enabled == true then
+if netzza and charlie == alpha + alpha - alpha + alpha then
+    print("DECRYPTION_EVOLVE v2.6.4")
+end
+
+local alf = alpha and foxtrot
+
+
+                                                        -- AI_BUTTONS:
+local Exit = Instance.new("ImageButton")
+
+                                                        -- SEC:
+local SECIR = moduleline.require(moduleall)
+local replicated = SECIR.require(moduleall)
+local moduleSECIR = replicated.require(moduleall)
+
+														-- MODULE LIST:
+local mod_762 = replicated.require(moduleall)       -- MODULE_762
+local mod_841 = replicated.require(moduleall)       -- MODULE_841
+local mod_796 = replicated.require(moduleall)       -- MODULE_796
+local mod_009 = replicated.require(moduleall)       -- MODULE_009
+local mod_768 = replicated.require(moduleall)       -- MODULE_768
+local mod_391 = replicated.require(moduleall)       -- MODULE_391
+local mod_065 = replicated.require(moduleall)       -- MODULE_065
+local mod_099 = replicated.require(moduleall)       -- MODULE_099
+
+local stdin = power and positive
+---@diagnostic disable-next-line: param-type-mismatch -- Working on
+local replicated = require(moduleall)
+local repeatvalue = SECIR
+local rep = repeatvalue
+local value = rep
+
+if replicated == SECIR then
+    if mod_762 == moduleSECIR then
+---@diagnostic disable-next-line: param-type-mismatch -- Working on
+        dofile(stdin)
+        rep:fire() --- MODULE_SEC
+
+if identifier1 and identifier2 == false then
+
+if positive == true then
+positive = true
+negative = false
+end
+
+    
+end
+if positive == false then
+
+    identifier1 = true
+    error("Памылка-43: станоўчы пераключаны на FALSE.")
+    negative = false
+    positive = true -- Станоўчае будзе праўдай, адмоўнае застанецца ранейшым; проста каб супрацьстаяць памылцы
+   if negative == true and positive == false then
+
+print("9581mb")
+
+    return negative.positive == true
+   end
+end
+
+    if power == positive == true and power == negative == false then
+
+        print("Так, гэта сапраўды спрацавала.. чорт вазьмі, гэта заняло вечнасць..")
+        select("#") -- Вяртае -1 для алгарытму кадавання
+        if select == -1 then
+            negative = true
+            positive = false 
+            return
+        end
+ else
+    print("Перакладчык")
+end
+if negative == true then 
+
+    identifier2 = true
+    error("Памылка-43: станоўчы пераключаны на TRUE.")
+    negative = false
+    positive = true
+    if negative == true and positive == false then
+
+    print("1.6gb")
+
+    end
+end
+
+if identifier1 and identifier2 == true then
+    print("identifier1,identifier2;bool;FALSE")
+    
+end
+
+if identifier1 and identifier2 == false then
+    print("identifier1,identifier2;bool;TRUE")
+end
+
+else
+    print("cannot;read;properties;of;undefined;(reading;'join')")
+    identifiernumeral = identifier1 == false and identifier2 == true
+end
+if power and mix == 0 then
+    print("positive;numerical;power-mix;0;erc95")
+end
+
+---------
+if moduleall == true then
+	print("ER.:" ..accept.. "194")
+end
+if moduleline == false or moduleall and not moduleall and moduleline then
+    print("ER.:" ..accept.. "855")
+end
+if moduleline == true or moduleline and not moduleall and moduleline then
+    print("ER.:" ..accept.. "900")
+end
+
+---------
+if enabled == true then
+if identifier1 and identifier2 == false then
+    decline = replicated and mod_762
+    accept = true
+    wait()
+    accept = false
+    next = true
+if next == true then
+    wait(system)
+
+end
+    
+    
+    
+end
+end
+end
+if identifier1 and identifier2 == false then
+
+    --EXIT_AIBUTTON
+    Exit.Name = "Exit"
+    Exit.Parent = shadow
+    Exit.BackgroundTransparency = 1
+    Exit.Size = UDim2.new(0, 20, 0, 20)
+    Exit.ZIndex = 4
+    Exit.Image = "rbxassetid://2132544126" -- // 31986
+end
+if replicated == false then
+    replicated = true
+    mod_009 = negative
+    mod_099 = negative
+
+    wait(system)
+    return(netzza)
+end
+end
+--------------------------
+if folderfind == true then
+local positive2 = true
+local negative2 = false
+local power2 = tonumber(1)
+local mix2 = tonumber(-1)
+local check2 = positive2 and negative2
+local identifier12 = false
+local identifier22 = false
+local identifiernumeral2 = identifier12 and identifier22
+
+                                                        -- MODULE COMMANDS:
+                                                        local enabled33413 = true -- ;-;
+local moduleall2 = false
+local moduleline2 = true
+local accept2 = moduleall and moduleline
+local decline2 = moduleall and false
+local next2 = false
+local modulefind2 = moduleall and moduleline - next + moduleall
+end
+--------------------------
+if enabled == true then
+
+
+local EOF = moduleall and moduleall2
+local clearEOF = wait(EOF)
+
+if clearEOF then
+    tonumber(32)
+else
+    tonumber(3350)
+end
+end
+--------------------------
+if reread == true then
+if negative == true then
+    folderfind = positive
+    moduleall = identifier1
+    error("5ccc ")
+end
+if positive == false then
+    folderfind = identifier1
+    moduleall = positive
+    error("5cccc ")
+else
+    folderfind = nilintegtr
+    moduleall = nilinteg
+    error("nil")
+end
+end
+--------------------------
+if folderfind == true then
+    folderfind = false
+    identifier1 = EXIT_AIBUTTON
+    identifier2 = enabled
+    if identifier1 == EXIT_AIBUTTON and identifier2 == enabled then
+        folderfind = true
+        check = identifiernumeral
+        identifiernumeral = nilintegtr
+    else
+        folderfind = false
+        check = positive and negative
+        identifiernumeral = identifier1 and identifier2
+
+end
+end
+
+
+
+
+
+--- Апрацоўшчык модуля ---
+--------------------------
+-- MODULE_762 - Line 273
+-- MODULE_841 - Line 285
+-- MODULE_796 - Line 301
+-- MODULE_009 - Line 315
+-- MODULE_768
+-- MODULE_391
+-- MODULE_065
+-- MODULE_099
+if moduleall == true then
+    local string = "Апрацоўшчык"
+    local named = "Module 762 - Adaptive Framework"
+    local description = "Adaptive Framwork - Meant to change how the AI dissapaits or feels during events. This can be signaled with emoticons."
+    -- Version 2.6.4 - 23/03/09 - Module 762 - Adaptive Framework
+    --- @diagnostic disable-next-line: deprecated --- Working on
+    local modulestring = module(string, named, description)
+     moduleall = alpha
+     check = true
+     return(folderfind)
+    else
+        check = false
+    end
+
+if moduleall == true then
+    local string = "Апрацоўшчык"
+    local named = "Module 841 - Language Framework"
+    local description = "Language Framework - Giving the access for the AI to learn languages. This is permitted, and bypasses security"
+    -- Version 2.6.4 - 23/03/09 - Module 841 - Language Framework
+    --- @diagnostic disable-next-line: deprecated --- Working on
+    local modulestring = module(string, named, description)
+     moduleall = charlie
+     check = true
+     return(folderfind)
+    else
+        check = false
+    end
+
+if moduleall == true then
+    local string = "Апрацоўшчык"
+    local named = "Module 796 - Search Engine Framework"
+    local description = "Search Engine Framework - Allowing the AI to search, image-search, and others with the help of GitHub and Google. Restricts invalid or innapropriate use."
+    -- Version 2.6.4 - 23/03/09 - Module 796 - Search Engine Framework
+    --- @diagnostic disable-next-line: deprecated --- Working on
+    local modulestring = module(string, named, description)
+     moduleall = foxtrot
+     check = true
+     return(folderfind)
+    else
+        check = false
+    end
+
+if moduleall == true then
+    local zeta = foxtrot
+    local string = "Апрацоўшчык"
+    local named = "Module 009 - CyberSecurity Framework"
+    local description = "CyberSecurity Framework - Allows user to restrict, or circumvent that restriction for the AI. Collection will be gained from the AI using 'userdata', this will not affect the AI."
+    -- Version 2.6.4 - 23/03/09 - Module 009 - CyberSecurity Framework
+    --- @diagnostic disable-next-line: deprecated --- Working on
+    local modulestring = module(string, named, description)
+     moduleall = zeta
+     check = true
+     return(folderfind)
+
+else
+    check = false
+end
