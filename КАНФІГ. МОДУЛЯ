@@ -269,7 +269,9 @@ end
 -- MODULE_768
 -- MODULE_391
 -- MODULE_065
--- MODULE_099
+-- MODULE_096
+local ACTIVE = true
+if ACTIVE == true then
 if moduleall == true then
     local string = "Апрацоўшчык"
     local named = "Module 762 - Adaptive Framework"
@@ -326,4 +328,6 @@ if moduleall == true then
 
 else
     check = false
+end
+
 end
