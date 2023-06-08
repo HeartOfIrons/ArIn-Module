@@ -1,4 +1,5 @@
 --] Пагарджаны
+local plaquefinder = script.Parent.Module
 local folderfind = true
 local positive = true
 local negative = false
@@ -13,7 +14,7 @@ local nilintegtr = false
 local reread = false
 
                                                         -- MODULE COMMANDS:
-                                                        local enabled = true -- ;-;
+                                                        local enabled = plaquefinder.Enabled -- ;-;
 --------------------------
 if folderfind == true then
 local moduleall = false
